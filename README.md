@@ -34,7 +34,7 @@ Click on the dashboard to explore insights and analytics!
 Feel free to contribute by suggesting improvements or adding new features. Open a pull request or submit an issue!
 
 ## Contact
-For any questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/israeladetola/) or email.
+For any questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/israeladetola/).
 
 
 

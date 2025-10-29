@@ -1,8 +1,7 @@
 # HR Dashboard - Interactive Human Resources Analytics
 
 ## Overview
-As a fictitious HR manager, I created a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.
-
+This is a dashboard I copied from [Data with Baara](https://www.youtube.com/@DataWithBaraa) YouTube channel.
 ## Key Features
 
 - **Summary Metrics:** Interactive visuals for key HR metrics, such as employee turnover, average tenure, and department-wise headcount.
@@ -25,13 +24,6 @@ As a fictitious HR manager, I created a comprehensive dashboard to analyze human
 Click on the dashboard to explore insights and analytics!
 [![Screenshot ](https://github.com/user-attachments/assets/fc5162ef-3ace-4a51-b9c3-1d012ebc63e0)](https://public.tableau.com/app/profile/israel.egbeama/viz/TableauHRDasboard/HRSummary)
 
-
-## Future Improvements
-- Integration with live HR systems for real-time updates.
-- Predictive analytics for turnover and retention forecasting.
-
-## Contributing
-Feel free to contribute by suggesting improvements or adding new features. Open a pull request or submit an issue!
 
 ## Contact
 For any questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/israeladetola/).
